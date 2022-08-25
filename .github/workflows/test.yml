@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: change the code
-        run: mkdir /home/mohid/testingfold
+        run: sudo mkdir /home/mohid/testingfold
