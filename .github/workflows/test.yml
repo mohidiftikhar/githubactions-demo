@@ -28,5 +28,4 @@ jobs:
       # Runs a single command using the runners shell
       - name: change the code
         run: sudo touch ~/test.txt
-ssh ubuntu@13.52.248.247
 
